@@ -1,0 +1,71 @@
+/*.wrapper {
+	text-align: center;
+}*/
+
+body {
+  background: rgba(0, 0, 0, 0) url("../img/transp_bg.png") repeat scroll 0 0 !important;
+}
+
+div em {
+  color: green;
+  margin: 15px 0; 
+}
+
+.display-message {
+  background-color: #d9edf7;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.23), 0 3px 10px rgba(0, 0, 0, 0.16);
+  margin-bottom: 20px;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+input {
+  padding-left: 10px;
+  width: 100%;
+}
+
+.submit-button {
+  background-color: #dff0d8;
+  border: 1px solid #ddd;
+  border-radius: 15px;
+  display: inline-block;
+  padding: 4px 0;
+  margin: 0 auto;
+}
+
+.message {
+  padding: 0 0 80px 10px;
+}
+
+.total-messages {
+  color: #8a6d3b;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.timespan {
+  color: #DE6C69;
+  font-size: 10px;
+  font-style: italic;
+}
+
+.clear-boarder {
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.16);
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+.col-xs-12.uploaded-image img {
+  clear: both;
+  display: block;
+  width: 117px;
+}
+
+.new-group {
+  margin-bottom: 10px;
+  background-color: #fff;
+}
+
+.file {
+  margin-top: 9px;
+}
