@@ -4,7 +4,8 @@ This project demonstrates the basic way to save and retrieve data from Firebase 
 
 Go to: https://console.firebase.google.com
 
-* Create a project and that will give your a database URL
+* Create a project
+* Click on Database and you will have a database URL
 * Replace the URL with that in firebasePushFetch
 
 ### For example: 
